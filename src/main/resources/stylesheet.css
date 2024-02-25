@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2019-11-05, 16:13:00
+    Author     : Kamil
+*/
+
+#detailsLabel_1, #detailsLabel_2, #detailsLabel_3, #detailsLabel_4, #detailsLabel_5, #detailsLabel_6, #detailsLabel_7 {
+    -fx-font-size: 17px;
+    -fx-font-family: 'Courier New', Courier, monospace;
+    -fx-text-fill: white;
+    -fx-text-alignment: left;
+    -fx-font-weight: bold;
+}
+
+#detailsText_1, #detailsText_2, #detailsText_3, #detailsText_4, #detailsText_5, #detailsText_6, #detailsText_7 {
+    -fx-font-size: 17px;
+    -fx-font-family: 'Courier New', Courier, monospace;
+    -fx-text-fill: white;
+    -fx-text-alignment: left;
+    -fx-font-weight: 400;
+}
